@@ -1,5 +1,3 @@
-Of course. Here is a complete README.md file for your project. You can copy and paste this directly into a README.md file in your project's root directory.
-
 Smart Task Planner
 A simple yet powerful backend API that uses AI to break down high-level user goals into a detailed, actionable plan with tasks, dependencies, and timelines.
 
